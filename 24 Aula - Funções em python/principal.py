@@ -1,9 +1,9 @@
-#emplos de funções em python
+#exemplos de funções em python
 
 # importando o arquivo com a função
 import funcoes_python
 
-#chamando a  função
+#chamando as funções
 funcoes_python.soma()
 
 v1 = 80

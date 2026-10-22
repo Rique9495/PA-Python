@@ -34,4 +34,13 @@ def corinthians(palmeiras, saoPaulo, santos):
 a = 10
 b = 30.50
 c = "O resultado da conta é:"
-corinthians(a, b, c)
+#corinthians(a, b, c)
+
+# 4ª Função em Python (SEM Parâmetros e COM Retorno)
+import  random
+def numero_sorteado():
+    num_sorteado = random.randrange(0, 75)
+    return str(num_sorteado)
+
+# Teste de chamada da funçao numero_sorteado()
+print(numero_sorteado())

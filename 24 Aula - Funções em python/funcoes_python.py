@@ -6,5 +6,3 @@ def soma():
     b = 100
     resSoma = a + b
     print(f"{a} + {b} = {resSoma}")
-
-soma()

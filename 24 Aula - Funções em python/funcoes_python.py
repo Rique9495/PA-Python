@@ -7,3 +7,4 @@ def soma():
     resSoma = a + b
     print(f"{a} + {b} = {resSoma}")
 
+soma()

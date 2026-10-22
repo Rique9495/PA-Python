@@ -3,6 +3,8 @@
 # importando o arquivo com a função
 import funcoes_python
 
-#chamandoa  função
+#chamando a  função
 funcoes_python.soma()
-funcoes_python.multi(3)
+
+v1 = 80
+funcoes_python.multi(v1)

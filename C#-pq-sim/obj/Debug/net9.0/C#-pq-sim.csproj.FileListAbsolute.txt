@@ -1,0 +1,15 @@
+C:\Users\Lab\PA-Python\C#-pq-sim\bin\Debug\net9.0\C#-pq-sim.exe
+C:\Users\Lab\PA-Python\C#-pq-sim\bin\Debug\net9.0\C#-pq-sim.deps.json
+C:\Users\Lab\PA-Python\C#-pq-sim\bin\Debug\net9.0\C#-pq-sim.runtimeconfig.json
+C:\Users\Lab\PA-Python\C#-pq-sim\bin\Debug\net9.0\C#-pq-sim.dll
+C:\Users\Lab\PA-Python\C#-pq-sim\bin\Debug\net9.0\C#-pq-sim.pdb
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\C#-pq-sim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\C#-pq-sim.AssemblyInfoInputs.cache
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\C#-pq-sim.AssemblyInfo.cs
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\C#-pq-sim.csproj.CoreCompileInputs.cache
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\C#-pq-sim.sourcelink.json
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\C#-pq-sim.dll
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\refint\C#-pq-sim.dll
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\C#-pq-sim.pdb
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\C#-pq-sim.genruntimeconfig.cache
+C:\Users\Lab\PA-Python\C#-pq-sim\obj\Debug\net9.0\ref\C#-pq-sim.dll
